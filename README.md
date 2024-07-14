@@ -1,4 +1,5 @@
 Umineko Scripting
+Vietnamese Translation
 =================
 
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
@@ -7,6 +8,4 @@ This is the script code and select related tools empowering [Umineko Project por
 
 #### Credits
 - Umineko Project
-- Knox Translations
-- SNS Team
 - All third-party contributors and authors

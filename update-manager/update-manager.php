@@ -500,6 +500,8 @@ function main($argc, $argv) {
 				$footer = file_get_contents($scripting.'/script/cht/umi_ftr.txt');				
 			if ($locale == 'tr')
 				$footer = file_get_contents($scripting.'/script/tr/umi_ftr.txt');
+			if ($locale == 'vi')
+				$footer = file_get_contents($scripting.'/script/vi/umi_ftr.txt');
 			$script .= str_replace(CRLF, LF, $footer);
 
 			localiseScript($script, $scripting.'/script/'.$locale.'/');
@@ -530,9 +532,13 @@ function main($argc, $argv) {
 			
 			if ($argc > 5) {
 				$archive = $argv[5] . '_' . date('d.m.y') . '.7z';
-				$folder = $argv[4] . DS . '*';
-				system('7z a '.$archive.' -t7z -m0=lzma2 -mx=9 -mfb=64 -md=128m -ms=on -mhe -v1023m -p'.PASSWORD.' '.$folder);
-				system('rm -rf '.$argv[4]);
+				$folder = $argv[4] . DIRECTORY_SEPARATOR . '*';
+
+				$sevenZipPath = '"C:\\Program Files\\7-Zip\\7z.exe"'; // Adjust based on your installation path
+				$command = $sevenZipPath . ' a ' . escapeshellarg($archive) . ' -t7z -m0=lzma2 -mx=9 -mfb=64 -md=128m -ms=on -mhe -v1023m -p' . escapeshellarg(PASSWORD) . ' ' . escapeshellarg($folder);
+				system($command);
+				// Replace 'rm -rf' with 'rmdir /s /q' for Windows
+				system('rmdir /s /q '. escapeshellarg($argv[4]));
 			}
 			
 			break;
