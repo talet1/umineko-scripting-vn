@@ -1,5 +1,4 @@
 # UminekoVN - Vietnamese Translation
-
 [![Build Status](../../workflows/Build/badge.svg)](../../actions)
 
 ## Introduction
