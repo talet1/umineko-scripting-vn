@@ -1,4 +1,4 @@
-# UminekoVN - Vietnamese Translation
+# UminekoVN - Vietnamese Translation Project
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
 ## Introduction
