@@ -1,6 +1,6 @@
 # UminekoVN - Vietnamese Translation
 
-[![Build Status](../../workflows/Build/badge.svg)](../../actions)
+[![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
 ## Introduction
 This project is dedicated to translating the "Umineko no Naku Koro ni" visual novel from the Wich Hunt translation to Vietnamese. Our aim is to make this masterpiece accessible to a wider audience, preserving the original tone and style.
