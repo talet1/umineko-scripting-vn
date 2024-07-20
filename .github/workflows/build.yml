@@ -1,0 +1,66 @@
+name: Build
+
+on: 
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  build:
+    name: Build scripts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Script Check
+        run: |
+          php update-manager/script-check.php check tr || exit 1
+
+      - name: Compile
+        run: |
+          BUILD=$(($(git rev-list --count --first-parent HEAD)+3500))
+          TODAY=$(date +"%d.%m.%y")
+          if git show-ref --tags z${BUILD} --quiet; then
+            echo "TAG=${BUILD}.1" >> "$GITHUB_ENV"
+          else
+            echo "TAG=${BUILD}" >> "$GITHUB_ENV"
+          fi
+          echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
+          echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
+          echo "Build number ${BUILD}"
+          mkdir -p ciout
+          php update-manager/update-manager.php dscript "ciout/vi.txt" . vi ${BUILD} || exit 1
+          php update-manager/update-manager.php script ciout/vi.txt "ciout/vi.file" 8 || exit 1
+          cp misc/game.hash ciout
+          cp misc/default.cfg ciout
+          cp misc/vi.cfg ciout
+          cd ciout
+          zip -qry umineko-vi-scripts_r${BUILD}.zip vi.file game.hash default.cfg vi.cfg || exit 1
+          cd ..
+          echo "Build number ${BUILD} done"
+
+      - name: Release
+        if: github.repository_owner == 'talet1'
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: z${{ env.TAG }}
+          release_name: Umineko VH Scripts r${{ env.BUILD }}
+          body_path: release_notes.md
+          draft: false
+          prerelease: false
+
+      - name: Upload Main
+        if: github.repository_owner == 'talet1'
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./ciout/umineko-vi-scripts_r${{ env.BUILD }}.zip
+          asset_name: umineko-vi-scripts.zip
+          asset_content_type: application/zip
