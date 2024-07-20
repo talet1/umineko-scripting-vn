@@ -40,7 +40,7 @@ jobs:
           cp misc/default.cfg ciout
           cp misc/vi.cfg ciout
           cd ciout
-          zip -qry umineko-vi-scripts_r${BUILD}.zip vi.file game.hash default.cfg vi.cfg || exit 1
+          zip -qry umineko-vi-scripts_r${BUILD}.zip vi.file locale_vi_game.hash game.hash default.cfg vi.cfg || exit 1
           cd ..
           git show -s --format="%s" > release_notes.md
           echo "Refer to https://forum.umineko-project.org for more details." >> release_notes.md
