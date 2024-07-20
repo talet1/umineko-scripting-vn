@@ -4,145 +4,145 @@
 `Có thể thấy hai người đàn ông lớn tuổi trong căn phòng tối mờ, nơi chứa đầy bụi bẩn và tỏa ra một mùi hôi thối ngọt ngào đến phát bệnh.`
 `Ở trong góc phòng này, lớn hơn nhiều so với những gì màu hầu hết mọi người gọi là phòng làm việc,`
 ` có một chiếc giường trông đắt tiền, một người đàn ông đang được kiểm tra y tế và vị bác sĩ đang thực hiện việc đó.`
-`{n}There was also what appeared to be a servant watching over the whole scene.`
-`"The bottle is my friend.`
-` It is no less of a friend than you, and it has stood by my side even longer than you have."`
-`The man who had bared his chest for the stethoscope spoke unapologetically as he straightened out his clothes.`
+`{n}Ngoài ra còn có một người hầu trông coi toàn bộ quá trình.`
+`"Chai rượu là người bạn của ta.`
+` Nó không kém gì một người bạn so với ông, và nó đã ở bên cạnh ta còn lâu hơn ông."`
+`Người đàn ông đã cởi trần để được khám bệnh vừa nói vừa vuốt thẳng bộ đồ của mình`
 `"............Kinzo‐{c:86EF9C:san}.`
-` ...Your body only appears to be well thanks to the effects of the medicine.`
-` However, if you continue to drink such strong spirits, the treatment will become meaningless.`
-` ...Trust my judgment.`
-` Temper your drinking."`
-`"I thank you, though only for the sentiment,`
-` my friend.`
+` ...Cơ thể của ngài chỉ có vẻ khỏe mạnh nhờ vào tác dụng của thuốc.`
+` Tuy nhiên, nếu tiếp tục uống rượu mạnh như vậy thì việc điều trị sẽ trở nên vô nghĩa..`
+` ...Hãy tin vào phán đoán của tôi.`
+` Làm ơn hãy kiềm chế việc uống rượu lại."`
+`"Cảm ơn vì lòng tốt của ông,
+` bạn của ta.`
 ` .........Genji.`
-` Another glass.`
-` Water it down slightly.`
-` That way Nanjo can save face."`
-`".........Are you quite sure?"`
-`After eyeing both the master who demanded the alcohol and his doctor who forbade it,`
-` Genji, the old butler, silently gave a slight nod and carried out his master's orders faithfully.`
-`Nanjo, the man's personal doctor, let out a deep sigh once again as he watched the butler busy himself alongside the liquor cabinet...`
-`There was a smell filling up the room.`
-`...This sweet, poisonous aroma felt as though it melted the heart, if not the soul itself.`
-` It was the smell of that venomous green drink that the man couldn't bring himself to part from.`
+` Thêm một ly nữa.`
+` Rót vào chậm thôi.`
+` Để Nanjo còn giữ thể diện."`
+`".........Ngài chắc chứ?"`
+`Sau khi quan sát người chủ yêu cầu thêm rượu và vị bác sĩ ngăn cấm điều đó,`
+` Genji, vị quản gia già, lặng lẽ gật đầu nhẹ và thực hiện mệnh lệnh của chủ nhân một cách trung thành.`
+`Nanjo, bác sĩ cá nhân của người đàn ông, lại thở dài một lần nữa khi nhìn người quản gia bận rộn bên tủ rượu...`
+`Có một mùi tràn ngập khắp căn phòng.`
+`...Loại hương thơm ngọt ngào, độc hại này khiến người ta có cảm giác như thể nó đang làm tan chảy trái tim, nếu không phải nói là linh hồn..`
+` Đó là mùi của thứ đồ uống màu xanh độc hại mà người đàn ông không thể rời xa được.`
 `"......Nanjo.`
-` You are my close friend of many years.`
-` I am deeply grateful for all that you have done to keep me alive this long."`
-`"I have done nothing.`
-` ......After all, you never listen to my advice as your physician."`
+` Chúng ta đã là bạn thân trong nhiều năm.`
+` Ta vô cùng biết ơn những gì ông làm cho ta."`
+`"Tôi chẳng làm gì cả.`
+` ......Rốt cuộc, ngài chẳng bao giờ nghe lời khuyên của tôi với tư cách là bác sĩ."`
 `"Hahahaha...`
-` And you never listen when I warn you about a mistaken chess move you're about to make.`
-` It seems we are even."`
-`"......My lord."`
-`"Thank you.`
-` ......I wouldn't die if I ran out of your medicine, but I would if I ran out of this."`
-`With one eye on Nanjo, who had his face set in a resigned expression, Kinzo took the glass that Genji was holding out to him.`
-`...There are probably very few people who would associate the venomous color which filled the glass with an alcoholic beverage.`
+` Còn ông thì không bao giờ nghe lời cảnh báo của ta về nước cờ lỗi mà ông chuẩn bị mắc phải.`
+` Có vẻ như chúng ta giống nhau rồi."`
+`"......Chủ nhân."`
+`"Cảm ơn.`
+` ......Ta sẽ không chết nếu thuốc của ông, nhưng sẽ chết nếu hết thứ này."`
+`Để mắt đến Nanjo, người với vẻ mặt bất lực, Kinzo cầm lấy chiếc ly mà Genji đưa cho mình.`
+`...Có rất ít người liên tưởng màu sắc độc hại tràn ngập trong ly với đồ uống có cồn.`
 `".........Nanjo.`
-` Be honest with me.`
-` How much time do I have left?"`
-`"Well now...`
-` How short must I make it to get you to stop drinking?"`
-`Nanjo once again let out a sigh of resignation.`
-`{n}As he watched Kinzo down the glass regardless, he spoke.`
-`".........You don't have much time."`
-`"...What precisely do you mean by that?"`
-`"......Let us illustrate it with the chess game here.`
-` You are closing out the game quite well, but I do not ultimately see you cornering my king."`
-`Nanjo's gaze was directed at a side table with a stately chess set placed on top of it.`
-`Judging by the positioning of the pieces, the match was well into the endgame.`
-`{n}The black rook and bishop were cutting deeply into the enemy lines.`
-`The white king had already been castled and cornered, so that even an amateur could see that the match would reach its conclusion before too long.`
-`Every time Nanjo came to give a medical examination, both of them would make a few moves.`
-`Nanjo was stating with confidence that Kinzo would most likely fall into his eternal sleep before this game could be concluded.`
-`...These were less the words of a physician than they were the words of an old friend.`
-`"............Were you a normal patient,`
-` I would recommend that you write a will at this point."`
-`"......And what is a will, Nanjo?`
-` Handwritten instructions to the vultures on how to devour and scatter my corpse?"`
-`"No, not at all.`
-` ......As the word suggests, it is a way for you to record your will for later generations.`
-` It is far more than just a means to divide up your inheritance."`
-`"Hoh.`
-` ......And apart from the division of the inheritance, what might I write of?"`
-`"............Oh, there's your regrets...`
-`and matters you have left unfinished.`
-` Things you want to be passed down...`
-`...and things you want to tell.`
-` ......Anything you want."`
+` Hãy thành thật với ta.`
+` Ta còn sống được bao lâu nữa?"`
+`"À thì...`
+` Phải ngắn đến mức nào để ngài ngừng uống chứ"`
+`Nanjo lần nữa thở dài trong bất lực.`
+`{n}Khi nhìn Kinzo đặt ly rượu xuống, vị bác sĩ nói.`
+`".........Ngài không còn nhiều thời gian đâu."`
+`"...Chính xác thì ông có ý gì?"`
+`"......Hãy minh họa điều đó bằng ván cờ này.`
+` Ngài đang có thế chiến thắng khá tốt, nhưng tôi không thấy ông chiếu vua của tôi."`
+`Ánh mắt của Nanjo hướng về chiếc bàn bên cạnh có một bàn cờ vua được đặt trang nghiêm ở đó.`
+`Xét theo vị trí của các quân cờ, trận đấu đã đi vào hồi kết.`
+`{n}Quân xe và tượng đen đang đục sâu vào phòng tuyến địch.`
+`Quân vua trắng đã nhập thành và bị dồn vào một góc, đến nỗi ngay cả một người chơi nghiệp dư cũng có thể thấy rằng ván cờ sẽ đi đến hồi kết.`
+`Mỗi lần Nanjo đến để khám sức khỏe, mỗi người đều sẽ đi một vài nước cờ.`
+`Nanjo tự tin tuyên bố rằng Kinjo sẽ rơi vào giấc ngủ vĩnh hằng trước khi ván cờ này được khép lại.`
+`...Đây không phải là lời nói của một bác sĩ mà là lời của một người bạn già.`
+`"............Nếu là một bệnh nhân bình thường,`
+` Tôi khuyên ngài nên viết di chúc vào lúc này."`
+`"......Và di chúc là gì, Nanjo?`
+` Tờ hướng dẫn viết tay cho lũ kền kền về cách ăn thịt và phân xác ta ư?"`
+`"Không, hoàn toàn không.`
+` ......Đó là cách ngài ghi lại ý nguyện của mình cho các thế hệ sau.`
+` Nó không chỉ là một phương tiện để phân chia tài sản thừa kế của ngài"`
+`"Hô.`
+` ......Và ngoài việc chia tài sản thừa kế, ta có thể viết được gì?"`
+`"............Ồ, có những điều tiếc nuối này...`
+`và cả những việc ngài còn đang dang dở.`
+` Những gì mà ngài muốn truyền lại...`
+`...và những gì ngài muốn kể.`
+` ......Bất cứ thứ gì ngài muốn."`
 `"......Hmph.`
-` .........Things I want to be passed down and things I want to tell?`
-` Ridiculous.`
-` I, Ushiromiya Kinzo, have not one thing I want to tell or leave behind!!"`
-`"I was born with nothing.`
-` I will die with nothing!`
-` There is nothing I wish to leave to my foolish children!!`
-` Even if the end were to come today—even if it were to come right now!`
-` I shall accept this fate of death without a trace of fear!!"`
+` .........Những thứ mà ta muốn truyền lại và những gì ta muốn kể?`
+` Thật nực cười.`
+` Ta, Ushiromiya Kinzo, không có điều gì muốn kể hay truyền lại cả!!"`
+`"Ta được sinh ra với hai bàn tay trắng.`
+` Ta sẽ chết cũng với hai bàn tay trắng!`
+` Chẳng có gì mà ta muốn để lại cho những đứa con ngu dốt của ta cả!!`
+` Cho dù tận thế có đến vào hôm nay-ngay cả khi nó đến vào lúc này`
+` Ta sẽ chấp nhận cái chết này mà không có lấy một chút sợ hãi!!"`
 `"......Kinzo‐san."`
-`"I created everything.`
-` My fortune!`
-` My prestige!`
-` Everything!!`
-` Those were built up by me, and they will be lost along with me.`
-` There is nothing I wish to leave behind!!"`
-`"Nothing!!`
-` After I'm gone, I care not if it all goes to waste!`
-` I desire no tomb, no coffin!!`
-` Those were the terms of the contract I made with the witch!`
-` When I die, everything will be lost!`
-` That has been part of the promise since the beginning, and that's why nothing will be left behind.`
-` There is nothing I can leave behind!!"`
-`After reaching a furious crescendo, Kinzo suddenly slumped over.`
-`...His expression was limp and feeble, as though an evil spirit had possessed him and then left.`
+`"Ta đã tạo ra mọi thứ.`
+` Gia tài của ta!`
+` Uy thế của ta!`
+` Tất cả!!`
+` Tất cả được xây lên bởi ta, và tất cả sẽ biến mất cùng với ta.`
+` Ta không muốn để lại thứ gì cả!!"`
+`"Không gì cả!!`
+` Sau khi ta chết, Ta không quan tâm nếu tất cả đều bị lãng phí!`
+` Ta khong mong muốn một ngôi mộ, cũng không cần một cỗ quan tài!!`
+` Đó là điều khoản trong hợp đồng mà ta đã ký vói phù thủy!`
+` Khi ta chết, tất cả sẽ biến mất!`
+` Đó là một phần của lời hứa ngay từ đầu, và đó là lý do sẽ không có gì được phép ở lại.`
+` Không có gì mà ta có thể bỏ lại phía sau!!"`
+`Sau khi nổi cơn thịnh nộ, Kinzo đột nhiên ngã xuống.`
+`...Nét mặt của ông ta mềm yếu và mệt mỏi, như thể một linh hồn ác quỷ đã chiếm hữu ông ta rồi rời đi.`
 `"..................`
-` However, I do have one regret.`
-` I have nothing to leave behind, but there is one thing I cannot leave undone..."`
-`".........You would do well to write it down.`
-` Of course, it would be best if you could finish it before your time comes.`
-` However, even if the worst happens, those who come after you will carry it to completion.`
-` You must leave behind your regrets so that they can be resolved even if you are unable to do so yourself.`
-` ......That is the purpose of a will."`
-`When Nanjo tried to gently pat Kinzo's shoulder, the dying man flew into a sudden rage and batted away Nanjo's hand.`
-`"That is no good, no good, no good!!"`
-`"It must be done while I still live! At the moment of my death, my soul will be devoured by the demons of the contract and wiped out of existence!`
-` For me, there will be no peace or another world after death!`
-` That's why everything must be done before I go!!`
-` That's why a will has no meaning for me!!"`
-`"And if I had the time to write such a thing...`
-` ...If I had such time to spare!!`
-` ...I'd want to see it.`
-` I'd want to see it one more time!`
-` I want to see {f:5:Beatrice}'s smiling face one last time!!"`
-`"Oh, {f:5:Beatrice}, why do you resist me so?!`
-` I would return everything you have given me right this very moment—I am prepared to lose everything!!`
-` So please, show me your smile just one more time..."`
-`"{f:5:Beatrice}, I beg of you—you must be able to hear this final plea—that's the kind of woman you are!`
-` I beg of you, show yourself to me!!`
-` You're here, aren't you?!`
-` You're standing there invisible, listening to every word I say, and even now you're mocking me from somewhere in this room, aren't you?!"`
-`"Please, appear before me one more time and smile!!`
-` Feel free to scold me, even snatch away my life by your own hands if you wish!!`
-` I don't want to die alone like this!!`
-` I cannot let myself die until I've seen your smile just one more time!!"`
-`"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
-` I offer up this life of mine, I offer it up to you!!`
-` I'm begging you, {f:5:Beatriceeeeee}!!!"`
+` Tuy nhiên, ta vẫn có điều hối tiếc.`
+` Ta không có gì để lại, nhưng có một việc ta không thể bỏ dở..."`
+`".........Ngài nên viết nó ra.`
+` Tất nhiên, tốt hơn hết nếu ngài có thể hoàn thành nó trước khi thời điểm đó tới.`
+` Ngay cả khi điều tồi tệ nhất xảy ra, con cháu của ngài sẽ hoàn thành nó.`
+` Ngài phải để lại lời trăn trối của mình để chúng có thể được giải quyết ngay cả khi ngài không thể tự mình thực hiện được như vậy.`
+` ......Đó là mục đích của di chúc."`
+`Khi Nanjo cố gắng vỗ vai Kinzo một cách nhẹ nhàng, người đàn ông đang hấp hối bỗng nổi cơn thịnh nộ và hất tay Nanjo ra.`
+`"Điều đó không ổn, không ổn, không ổn chút nào!!"`
+`"Nó phải được hoàn thành khi ta còn sống! Vào thời khắc ta chết, linh hồn ta sẽ bị nuốt chửng bởi ác quỷ của hợp đồng và bị xóa sổ khỏi sự tồn tại!`
+` Đối với ta, sẽ không có sự bình yên hay thế giới bên kia sau khi chết!`
+` Đó là vì sao mọi thứ phải được thực hiện trước khi ta đi!!`
+` Đó là lí do di chúc chẳng có ý nghĩa gì với ta cả!!"`
+`"Và nếu ta có thời gian viết một thứ như vậy...`
+` ...Nếu ta có thời gian rảnh như vậy!!`
+` ...Ta muốn xem nó.`
+` Ta muốn xem nó thêm một lần nữa!`
+` Ta muốn nhìn thấy nụ cười trên khuôn mặt của {f:5:Beatrice}'s lần cuối!!"`
+`"Ôi, {f:5:Beatrice}, tại sao nàng lại cự tuyệt ta như vậy?!`
+` Ta sẽ trả lại tất cả những gì nàng đã cho ta ngay lúc này-Ta đã sẵn sàng để mất tất cả!!`
+` Nên làm ơn, hãy cho ta xem nụ cười của nàng một lần nữa thôi..."`
+`"{f:5:Beatrice}, Ta cầu xin nàng—nàng phải có khả năng nghe được lời thỉnh cầu này-đó là kiểu người của nàng!`
+` Ta van xin nàng, hãy xuất hiện trước mặt ta!!`
+` Nàng đang ở đây đúng không?!`
+` Nàng đang đứng đó, vô hình, lắng nghe những gì ta nói, và ngay bây giờ nàng đang chế giễu ta từ đâu đó trong căn phòng này phải không?!"`
+`"Làm ơn, hãy xuất hiện trước mặt ta một lần nữa và mỉm cười!!`
+` Cứ thoải mái mắng trách ta, thậm chí lấy đi mạng sống của ta bằng chính đôi tay của nàng nếu muốn!!`
+` Ta không muốn chết một mình như thế này!!`
+` Ta không thể để bản thân chết cho đến khi thấy được nụ cười của nàng một lần nữa!!"`
+`"Aaa, {f:5:Beatrice}, {f:5:Beatrice}!!`
+` Ta dâng hiến cái mạng của mình cho nàng, ta dâng nó cho nàng!!`
+` Ta cầu xin nàng, {f:5:Beatriceeeeee}!!!"`
 `"Whoa...`
-` Things sure move with the times...`
-` I can't believe we'll be able to make the trip in just twenty minutes..."`
-`I couldn't help but scratch my head and marvel at how far things have come in recent years.`
-`{n}We used to go by boat.`
-`Back then, we were all forced to endure nearly half a day of swaying back and forth over the sea before we reached Niijima.`
-` Things have gotten so much more convenient these days.`
-`Still, I've never been on a plane this small.`
-`{n}I've flown in a huge jumbo jet before, but this will be my first experience in such a tiny one.`
-`...It's going to shake, isn't it...`
-` They say that smaller boats shake more, so I guess the same rule probably applies to planes.`
-`...Aaah, just spare me.`
-`"Haahahaha, don't worry, Battler‐kun.`
-` It'll shake much less than that boat did."`
+` Mọi thứ chắc chắn thay đổi theo thời gian...`
+` Tôi không thể tin rằng chúng tôi sẽ thể hoàn thành chuyến đi chỉ trong 20 phút..."`
+`Tôi không thể không gãi đầu kinh ngạc trước sự phát triển vượt bậc của mọi thứ trong những năm gần đây.`
+`{n}Chúng tôi từng phải đi bằng tàu.`
+`Trước đó, chúng tôi đều phải chịu đựng gần nửa ngày bị lắc lư qua lại trên biển trước khi đến Niijima.`
+` Mọi thứ đã trở nên tiện lợi hơn rất nhiều trong những ngày qua.`
+`Tuy nhiên, tôi chưa bao giờ ở trên một chiếc máy bay nhỏ thế này.`
+`{n}Tôi đã từng bay trên một chiếc máy bay phản lực khổng lồ trước đây, nhưng đây sẽ là trải nghiệm đầu tiên của tôi trong chiếc nhỏ như vậy.`
+`...Nó sẽ rung lắc, đúng chứ...`
+` Họ nói rằng những chiếc thuyền nhỏ hơn thì rung lắc nhiều hơn, nên tôi đoán rằng quy tắc tương tự có thể áp dụng cho máy bay.`
+`...Aaaa, hãy tha cho tôi đi.`
+`"Haahahaha, đừng lo lắng, Battler‐kun.`
+` Nó sẽ lắc ít hơn nhiều so với con thuyền đó."`
 `"Gyah?! ...I‐is that you, George‐{c:86EF9C:aniki}?!"`
 `"Heheh, don't scare me like that... You just shaved three years off my life.`
 ` Anyway, what's shaking got to do with anything?"`
