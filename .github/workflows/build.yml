@@ -33,7 +33,10 @@ jobs:
           mkdir -p ciout
           php update-manager/update-manager.php dscript "ciout/vi.txt" . vi ${BUILD} || exit 1
           php update-manager/update-manager.php script ciout/vi.txt "ciout/vi.file" 8 || exit 1
+          cp misc/game.hash misc/locale_vi_game.hash
+          php update-manager/update-manager.php genhash misc/locale_vi_game.hash "extra/vi/"
           cp misc/game.hash ciout
+          cp misc/locale_vi_game.hash ciout
           cp misc/default.cfg ciout
           cp misc/vi.cfg ciout
           cd ciout
