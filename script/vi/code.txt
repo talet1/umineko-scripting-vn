@@ -55,6 +55,7 @@ return
 	if %legacy_op == off && %track_id == 1012 mov $track_id,"video\sub\both_eng.ass" : return
 	if %legacy_op == on  && %track_id == 1012 mov $track_id,"legacy\sub\both_eng.ass" : return
 return
+
 *sub_get_vi
 	if %track_id == 58 mov $track_id,"video\sub\58_vi.ass" : return
 	if %track_id == 83 mov $track_id,"video\sub\83_vi.ass" : return
@@ -72,6 +73,7 @@ return
 	if %legacy_op == off && %track_id == 1012 mov $track_id,"video\sub\vi.ass" : return
 	if %legacy_op == on  && %track_id == 1012 mov $track_id,"legacy\sub\vi.ass" : return
 return
+
 *redefine_text_presets
 return
 
@@ -287,4 +289,3 @@ if %BGM_Id == 1014	mov $BGM_Title,"Мечта Инанны" : return
 if %BGM_Id == 1017  mov $BGM_Title,"Оккультная ведьма" : return
 if %BGM_Id == 1018  mov $BGM_Title,"Туманный пифос" : return
 return
-

@@ -32961,11 +32961,11 @@ if %game_language != 6 jumpf
 ~
 
 if %game_language != 7 jumpf
-	lsp 300,":s;#FFFFFF`{p:10:——————}{p:9:{a:c: Cấu hình Game ban đầu }{p:10:——————}}",135,%y-100
-	lsp 301,":s;#FFFFFF`{p:8:Oyun dili}",135,%y
-	lsp 302,":s;#FFFFFF`{p:8:Pencere boyutu}",135,%y+100
-	lsp 303,":s;#FFFFFF`{p:8:Pencere modu}",135,%y+200
-	lsp 304,":s;#FFFFFF`{p:8:Oynanış}",135,%y+300
+	lsp 300,":s;#FFFFFF`{p:10:——————}{p:9:{a:c: Cấu hình game ban đầu }{p:10:——————}}",135,%y-100
+	lsp 301,":s;#FFFFFF`{p:8:Ngôn ngữ}",135,%y
+	lsp 302,":s;#FFFFFF`{p:8:Kích thước cửa sổ}",135,%y+100
+	lsp 303,":s;#FFFFFF`{p:8:Chế độ hiển thị}",135,%y+200
+	lsp 304,":s;#FFFFFF`{p:8:Interface}",135,%y+300
 ~
 
 *first_setting2
