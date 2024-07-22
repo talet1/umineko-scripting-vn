@@ -5,9 +5,9 @@
 `Ở trong góc phòng này, lớn hơn nhiều so với những gì màu hầu hết mọi người gọi là phòng làm việc,`
 ` có một chiếc giường trông đắt tiền, một người đàn ông đang được kiểm tra y tế và vị bác sĩ đang thực hiện việc đó.`
 `{n}Ngoài ra còn có một người hầu trông coi toàn bộ quá trình.`
-`"Chai rượu là người bạn của ta.`
+`"Rượu là bạn thân của ta.`
 ` Nó không kém gì một người bạn so với ông, và nó đã ở bên cạnh ta còn lâu hơn ông."`
-`Người đàn ông đã cởi trần để được khám bệnh vừa nói vừa vuốt thẳng bộ đồ của mình`
+`Người đàn ông đã cởi trần để được khám bệnh vừa nói vừa vuốt thẳng bộ đồ của mình.`
 `"............Kinzo‐{c:86EF9C:san}.`
 ` ...Cơ thể của ngài chỉ có vẻ khỏe mạnh nhờ vào tác dụng của thuốc.`
 ` Tuy nhiên, nếu tiếp tục uống rượu mạnh như vậy thì việc điều trị sẽ trở nên vô nghĩa..`
@@ -27,7 +27,7 @@
 `...Loại hương thơm ngọt ngào, độc hại này khiến người ta có cảm giác như thể nó đang làm tan chảy trái tim, nếu không phải nói là linh hồn..`
 ` Đó là mùi của thứ đồ uống màu xanh độc hại mà người đàn ông không thể rời xa được.`
 `"......Nanjo.`
-` Chúng ta đã là bạn thân trong nhiều năm.`
+` Chúng ta đã là bạn trong nhiều năm.`
 ` Ta vô cùng biết ơn những gì ông làm cho ta."`
 `"Tôi chẳng làm gì cả.`
 ` ......Rốt cuộc, ngài chẳng bao giờ nghe lời khuyên của tôi với tư cách là bác sĩ."`
@@ -153,7 +153,7 @@
 ` Em không còn là con nít nữa.`
 ` Hahahahaha."`
 `"Chà, vậy mà anh đã đủ tuổi để hút thuốc và uống rượu rồi đấy.`
-` Anh không có hứng thú với việc hút thuốc, nhưng anh luôn muốn thử một chút rượu, heheheh!`
+` Em không có hứng thú với việc hút thuốc, nhưng em luôn muốn thử một chút rượu, heheheh!`
 ` Chà, nếu anh thừa hưởng gen từ bố, em cá là anh có thể uống rượu rất giỏi, phải không?"`
 `"À thì, anh chỉ thường uống vì công việc hơn là để thỏa mãn.`
 ` Ở Nhật bản, khá là khó để làm ăn mà không có khả năng uống rượu."`
@@ -201,9 +201,9 @@
 `"Chẳng có gì đặc biệt cả.`
 ` Một người đàn ông thực thụ cần mạnh mẽ từ cả bên trong nữa!"`
 `"Chính xác!`
-` Battler‐kun here knows how it works!`
-` Real men win or lose based on what they've got on the inside!`
-` Can't ever forget to keep up your trainin' and discipline.`
+` Battler‐kun đây cũng biết cách mà nó hoạt động rồi!`
+` Những người đàn ông thực thụ thắng hay thua dựa vào những gì họ có bên trong!`
+` Không bao giờ được quên duy trì việc tập luyện và kỷ luật của bản thân.`
 ` You do that, wait verrry alertly for the perfect moment...and strike!"`
 `"Now, even I never imagined that I'd become the company president I am today, master of my own domain...`
 ` Yep, to think I've come this far after starting out penniless and ruined...!"`
