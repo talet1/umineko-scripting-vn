@@ -1575,7 +1575,6 @@ stralias reset_hint_text,":s;#FFFFFF`{p:11:Bạn có muốn đặt lại trò ch
 stralias jump_hint_text,":s;#FFFFFF`{p:11:Bạn có muốn nhảy đến dòng này không?{n} Điều này có thể mất một thời gian, và bạn có thể muốn lưu trước.}"
 stralias action_yes,":s;#C7C7C7#FFFFFF`{p:11:Có}"
 stralias action_no,":s;#C7C7C7#FFFFFF`{p:11:Không}"
-
 stralias save_btn,":s;#FFFFFF#FF0000`{p:11:Save}"
 stralias save_btn_b,":s;#FF0000`{p:11:Save}"
 stralias load_btn,":s;#FFFFFF#FF0000`{p:11:Load}"
